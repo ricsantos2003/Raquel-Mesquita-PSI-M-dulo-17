@@ -21,7 +21,7 @@ class ArticlesTable extends Table
     }
 }
 
-
+# exercicio 7
 
 // src/Controller/ArticlesController.php
 
