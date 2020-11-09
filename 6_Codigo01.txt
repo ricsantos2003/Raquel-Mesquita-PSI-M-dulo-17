@@ -20,7 +20,7 @@ class ArticlesTable extends Table
         $this->addBehavior('Timestamp');
     }
 }
-
+# o ricardo esteve aqui
 
 
 // src/Controller/ArticlesController.php
